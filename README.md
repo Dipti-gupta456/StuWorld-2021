@@ -1,4 +1,4 @@
-# WT-Project-2021
+# StuWorld-Project-2021
 
 StuWorld is a web application built to help students in their day-to-day life although the targeted audience is Students this application would be helpful for working professionals also.
 
